@@ -1,0 +1,6 @@
+# Ignore Windows system files
+.vs
+
+# Ignore node_modules folder
+.vscode
+
